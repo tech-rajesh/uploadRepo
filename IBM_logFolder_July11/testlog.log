@@ -1,0 +1,33 @@
+2022-07-11 12:39:48,602 - IBM_HRM_Login_Module -INFO - =================================
+2022-07-11 12:39:48,608 - IBM_HRM_Login_Module -INFO - chrome browser launched.
+2022-07-11 12:39:52,039 - IBM_HRM_Login_Module -INFO - HRM app launched. - https://opensource-demo.orangehrmlive.com/
+2022-07-11 12:39:52,077 - IBM_HRM_Login_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 12:39:52,193 - IBM_HRM_Login_Module -INFO - enter userName: Admin
+2022-07-11 12:39:52,315 - IBM_HRM_Login_Module -INFO - enter password: Admin
+2022-07-11 12:39:53,595 - IBM_HRM_Login_Module -INFO - click on login button
+2022-07-11 12:39:53,642 - IBM_HRM_Login_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 12:39:53,644 - IBM_HRM_Login_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 12:39:53,698 - IBM_HRM_Login_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 12:39:57,794 - IBM_HRM_Login_Module -INFO - browser closed successfully.
+2022-07-11 12:41:05,764 - IBM_HRM_Login_Module -INFO - =================================
+2022-07-11 12:41:05,773 - IBM_HRM_Login_Module -INFO - chrome browser launched.
+2022-07-11 12:41:09,441 - IBM_HRM_Login_Module -INFO - HRM app launched. - https://opensource-demo.orangehrmlive.com/
+2022-07-11 12:41:09,484 - IBM_HRM_Login_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 12:41:09,663 - IBM_HRM_Login_Module -INFO - enter userName: Admin
+2022-07-11 12:41:09,819 - IBM_HRM_Login_Module -INFO - enter password: Admin
+2022-07-11 12:41:11,489 - IBM_HRM_Login_Module -INFO - click on login button
+2022-07-11 12:41:11,544 - IBM_HRM_Login_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 12:41:11,546 - IBM_HRM_Login_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 12:41:11,590 - IBM_HRM_Login_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 12:41:16,369 - IBM_HRM_Login_Module -INFO - browser closed successfully.
+2022-07-11 12:46:09,443 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 12:46:09,458 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 12:46:12,323 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 12:46:12,362 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 12:46:13,656 - IBM_Amazon_Module -INFO - enter searchText: iphone
+2022-07-11 12:46:16,226 - IBM_Amazon_Module -INFO - click on search button
+2022-07-11 12:46:16,231 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 12:46:16,233 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 12:46:18,316 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/s?k=iphone&crid=2I5F8KIRIKCT&sprefix=%2Caps%2C224&ref=nb_sb_noss
+2022-07-11 12:46:18,318 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 12:46:27,830 - IBM_Amazon_Module -INFO - browser closed successfully.
